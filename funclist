@@ -1,5 +1,6 @@
-_main: CODE, 774 0 160
-__initialization: CODE, 934 0 2
-_Trigger_input: CODE, 8 0 218
+_main: CODE, 774 0 164
+__initialization: CODE, 996 0 2
+_Trigger_input: CODE, 8 0 276
+_Power_UP: CODE, 938 0 58
 _COUNT_MAP: SMALLCONST, 768 0 4
-Total: 384
+Total: 504

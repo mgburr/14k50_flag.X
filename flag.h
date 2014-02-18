@@ -76,7 +76,7 @@
 #ifdef	__cplusplus
 extern "C" {
 #endif
-
+    extern void Power_UP(void);
 
 
 
